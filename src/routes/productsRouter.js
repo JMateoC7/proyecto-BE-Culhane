@@ -15,6 +15,7 @@ router.get('/:pid', async (req, res) => {
   if (!product) return res.status(404).send('Producto no encontrado');
   res.json(product);
 });
+// s
 
 // Agregar nuevo producto
 router.post('/', async (req, res) => {
