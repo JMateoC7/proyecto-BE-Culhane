@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "products": [
+      {
+        "product": "RIVER-001",
+        "quantity": 1
+      },
+      {
+        "product": "RIVER-002",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "products": [
+      {
+        "product": "RIVER-003",
+        "quantity": 1
+      }
+    ]
+  }
+]

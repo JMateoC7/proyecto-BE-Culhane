@@ -1,0 +1,23 @@
+{
+  "name": "pruebapf",
+  "version": "1.0.0",
+  "main": "pruebaPF.js",
+  "scripts": {
+    "start" : "node ./src/app.js" ,
+    "dev": "node --watch ./src/app.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.1",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.7"
+  }
+}
